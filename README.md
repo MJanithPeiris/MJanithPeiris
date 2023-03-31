@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 ### About Me 🚀
-I'm Janith Iresha Peiris, working as a trainee software engineer. I am currently following my Bachelor's in Software Engineering at University of Central Lancashire - UCLan.
+👨‍🎓I'm Janith Iresha Peiris, working as a trainee software engineer. I am currently following my Bachelor's in Software Engineering at University of Central Lancashire - UCLan.
 
 In 2021, I learnt C++, Java, C#. Currently learning .NET and Angular.
 
