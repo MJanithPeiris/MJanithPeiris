@@ -11,6 +11,10 @@ In 2021, I learnt C++, Java, C#. Currently learning .NET and Angular.
 
 Outside the tech world, I love to ride bicycles, and watch movies. Currently i'm practicing to play a guitar.
 
+### Achievements
+I have completed a Diploma in IT at Siksil Institute of Business & Technology (Pvt) Ltd.
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
