@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 ### About Me 🚀
-👨‍🎓I'm Janith Iresha Peiris, working as a trainee software engineer. I am currently following my Bachelor's in Software Engineering at University of Central Lancashire - UCLan.
+👨‍🎓I'm Janith Iresha Peiris, working as an Associate Software Engineer. I am pursuing my Bachelor's in Software Engineering at the University of Central Lancashire - UCLan.
 
-In 2021, I learnt C++, Java, C#. Currently learning .NET and Angular.
+In 2021, I learnt C++, Java, C#. I am currently learning Angular.
 
-Outside the tech world, I love to ride bicycles, and watch movies. Currently i'm practicing to play a guitar.
+Outside the tech world, I love to ride bicycles, and watch movies. Currently, I'm practising to play a guitar.
 
 ### Achievements 🏅
 I have completed a Diploma in IT at Siksil Institute of Business & Technology (Pvt) Ltd.
