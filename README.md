@@ -12,8 +12,8 @@ I learnt C# .Net, C++, Java, Angular. I am currently learning about Azure.
 Outside the tech world, I love to ride bicycles, and watch movies. Currently, I'm practising to play a guitar.
 
 ### Achievements 🏅
-BSc (Hons) in Software Engineering with First Class.
-I have completed a Diploma in IT at Siksil Institute of Business & Technology (Pvt) Ltd.
+- BSc (Hons) in Software Engineering with First Class.
+- I have completed a Diploma in IT at Siksil Institute of Business & Technology (Pvt) Ltd.
 
 
 <!--
