@@ -5,13 +5,14 @@
 
 Here are some ideas to get you started: -->
 ### About Me 🚀
-👨‍🎓I'm Janith Iresha Peiris, working as an Associate Software Engineer. I am pursuing my Bachelor's in Software Engineering at the University of Central Lancashire - UCLan.
+👨‍🎓I'm Janith Iresha Peiris, working as a Software Engineer. I am a Software Engineering graduate from the University of Central Lancashire - UCLan.
 
-In 2021, I learnt C++, Java, C#. I am currently learning Angular.
+I learnt C# .Net, C++, Java, Angular. I am currently learning about Azure.
 
 Outside the tech world, I love to ride bicycles, and watch movies. Currently, I'm practising to play a guitar.
 
 ### Achievements 🏅
+BSc (Hons) in Software Engineering with First Class.
 I have completed a Diploma in IT at Siksil Institute of Business & Technology (Pvt) Ltd.
 
 
